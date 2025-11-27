@@ -43,8 +43,11 @@ layout: table_wrappers
             </ul>
           {% endif %}
         </div>
-        <div class="page">
-          {% unless page.url == "/" %}
+        <div class="header-note">
+          <h5>The replication package including the dataset, coverage and analysis results, and exploration scripts is available <a href="https://zenodo.org/records/17731334">here</a></h5>
+        </div>
+       <div class="page">       
+           {% unless page.url == "/" %}
             {% if page.parent %}
               <nav class="breadcrumb-nav">
                 <ol class="breadcrumb-nav-list">

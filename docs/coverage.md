@@ -28,7 +28,7 @@ We report the average coverage achieved by the two tools, manual analysts and al
 
 ### Coverage Results for Google Play Applications (RQ1)
 
-The detailed coverage results for tools and manual analysis are provided as an [Excel sheet](../assets/data/CoverageResults.xlsx). 
+The detailed coverage results for tools and manual analysis are provided as an [Excel sheet](../assets/data/CoverageResults.xlsx).
 For each application under study, we mark which activities are reached by either tool and which are reached manually.
 
 We also provide plots of the coverage improvement over time achieved by analysts in this [zip file](../assets/data/plots.zip).
